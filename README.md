@@ -1,6 +1,6 @@
 # Aetherscape Telecommunications™ by VDC
 
-
+![image](https://github.com/VaysiDevelopmentCenter/AetherscapeTelecommunications/assets/151166631/1c9780a5-9315-4cd2-b953-73c40e9974dc)
 
 
 **A Revolutionary Network Built on the CEDARnet® Project**
