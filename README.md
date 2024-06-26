@@ -41,4 +41,4 @@ Data stored within DCCs doesn't stay there forever.  The CEDARnet® project inco
 **Note:**
 
 * Aetherscape Telecommunications™ is a registered trademark of Vaysi Development Center (VDC).
-* CEDARnet® is a project by Cedar Platform.
+* CEDARnet® is a project by [Cedar Platform.](GitHub.com/CedarPlatform)
